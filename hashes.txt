@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chhute Chole Jawar Golpo
+
+This log tracks the cryptographic history and versioning for the song **Chhute Chole Jawar Golpo** (chhute-chole-jawar-golpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T10:26:57.137303 | `v1` | `cd0136e0aab6ddf29a3c4100d558fd032dd5770b99746fe9a58a2de76cd8373b` | `737590d06b1fc5db7f5568aecf40421007de85eff089aabb0ee2bf1f5930b39c` | `2026-05-16_chhute-chole-jawar-golpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

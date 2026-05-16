@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chhute-chole-jawar-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Chhute Chole Jawar Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chhute-chole-jawar-golpo/) |
+| **Get License** | [Get a Licensing Quote for Chhute Chole Jawar Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chhute-chole-jawar-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cd0136e0aab6ddf29a3c4100d558fd032dd5770b99746fe9a58a2de76cd8373b` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
